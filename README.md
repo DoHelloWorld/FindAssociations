@@ -1,5 +1,7 @@
 # Find_Associations
 Script finds associations for words at https://wordassociations.net using API.
+Words in input file should be seperated by newline character.
+Output file can be in xml or json format.
  
 ## Description: 
 Script send GET requests to https://wordassociations.net/ with words from input file and put results in output file.
