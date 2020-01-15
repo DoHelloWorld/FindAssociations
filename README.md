@@ -1,2 +1,2 @@
 # Find_Associations
-Script words associations at https://wordassociations.net using API.
+Script finds associations for words at https://wordassociations.net using API.
